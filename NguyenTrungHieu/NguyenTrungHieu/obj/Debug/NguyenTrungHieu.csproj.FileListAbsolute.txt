@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\NguyenTrungHieu\NguyenTrungHieu\obj\Debug\NguyenTrungHieu.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NguyenTrungHieu\NguyenTrungHieu\obj\Debug\NguyenTrungHieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\NguyenTrungHieu\NguyenTrungHieu\obj\Debug\NguyenTrungHieu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NguyenTrungHieu\NguyenTrungHieu\bin\Debug\NguyenTrungHieu.exe.config
+C:\Users\Admin\Desktop\NguyenTrungHieu\NguyenTrungHieu\bin\Debug\NguyenTrungHieu.exe
+C:\Users\Admin\Desktop\NguyenTrungHieu\NguyenTrungHieu\bin\Debug\NguyenTrungHieu.pdb
+C:\Users\Admin\Desktop\NguyenTrungHieu\NguyenTrungHieu\obj\Debug\NguyenTrungHieu.exe
+C:\Users\Admin\Desktop\NguyenTrungHieu\NguyenTrungHieu\obj\Debug\NguyenTrungHieu.pdb
